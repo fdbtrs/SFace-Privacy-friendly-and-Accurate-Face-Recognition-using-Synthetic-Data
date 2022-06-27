@@ -2,12 +2,13 @@
 
 ## This is the official repository of the paper:
 #### SFace: Privacy-friendly and Accurate Face Recognition using Synthetic Data
-Paper on arxiv: [arxiv](https://arxiv.org/pdf/2109.09416.pdf)
+Paper on arxiv: [arxiv](https://arxiv.org/abs/2206.10520)
 
 ![Framework](./images/overview_v6.png)
 
 The SFace dataset can be downloaded from [Data](https://drive.google.com/file/d/1fQPyyb0y8aSZvXRskpVENBMT1aCX4bZs/view?usp=sharing)
-
+ (please share your name, affiliation, and official email in the request form).
+ 
 | Model  |  Pretrained model|
 | ------------- |------------- |
 | SFace-KT       |[pretrained-mode](https://drive.google.com/drive/folders/18zyEBTkpvMK6e6DWTFULS36qFEkpo4r0?usp=sharing) |
