@@ -4,6 +4,8 @@
 #### SFace: Privacy-friendly and Accurate Face Recognition using Synthetic Data
 Paper on arxiv: [arxiv](https://arxiv.org/abs/2206.10520)
 
+
+### Accepted IJCB 2022
 ![Framework](./images/overview_v6.png)
 
 The SFace dataset can be downloaded from [Data](https://drive.google.com/file/d/1fQPyyb0y8aSZvXRskpVENBMT1aCX4bZs/view?usp=sharing)
