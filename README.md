@@ -8,15 +8,20 @@ Paper on arxiv: [arxiv](https://arxiv.org/abs/2206.10520)
 ### Accepted IJCB 2022
 ![Framework](./images/overview_v6.png)
 
-The SFace dataset can be downloaded from [Data](https://drive.google.com/file/d/1fQPyyb0y8aSZvXRskpVENBMT1aCX4bZs/view?usp=sharing)
- (please share your name, affiliation, and official email in the request form).
+The SFace dataset can be downloaded from [Data](https://drive.google.com/file/d/1fQPyyb0y8aSZvXRskpVENBMT1aCX4bZs/view?usp=sharing).
+(please share your name, affiliation, and official email in the request form).
+
+
+The pretrained model to generate SFace dataset can be downloaded [SFace](https://drive.google.com/drive/folders/109kxFZhA7yizv2dpdnfM-aL0n1JEoGhd?usp=sharing).
+
+(please share your name, affiliation, and official email in the request form).
  
 | Model  |  Pretrained model|
 | ------------- |------------- |
 | SFace-KT       |[pretrained-mode](https://drive.google.com/drive/folders/18zyEBTkpvMK6e6DWTFULS36qFEkpo4r0?usp=sharing) |
 | SFace-CLS      |[pretrained-mode](https://drive.google.com/drive/folders/198z8uXpoz40s7Uyy8iR6Dwjyr9qr84IA?usp=sharing) |
 | SFace-CL        |[pretrained-mode](https://drive.google.com/drive/folders/1cxhzIvyXYRr8ZMnL1AKtslqpn6lYKpwC?usp=sharing) |
-| CASIA-WevFace    |[pretrained-mode](https://drive.google.com/drive/folders/1JKabqfH4h8LPy-pqC-GUPO9PvG3uvcOe?usp=sharing) |
+| CASIA-WebFace    |[pretrained-mode](https://drive.google.com/drive/folders/1JKabqfH4h8LPy-pqC-GUPO9PvG3uvcOe?usp=sharing) |
 
 
 
