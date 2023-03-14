@@ -29,14 +29,21 @@ The pretrained model to generate SFace dataset can be downloaded [SFace](https:/
 If you use any of the code provided in this repository, please cite the following paper:
 ## Citation
 ```
-@misc{Sface_Boutros,
-  doi = {10.48550/ARXIV.2206.10520},
-  url = {https://arxiv.org/abs/2206.10520},
-  author = {Boutros, Fadi and Huber, Marco and Siebke, Patrick and Rieber, Tim and Damer, Naser}, 
-  title = {SFace: Privacy-friendly and Accurate Face Recognition using Synthetic Data},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
+@inproceedings{Sface_Boutros,
+  author    = {Fadi Boutros and
+               Marco Huber and
+               Patrick Siebke and
+               Tim Rieber and
+               Naser Damer},
+  title     = {SFace: Privacy-friendly and Accurate Face Recognition using Synthetic
+               Data},
+  booktitle = {{IEEE} International Joint Conference on Biometrics, {IJCB} 2022,
+               Abu Dhabi, United Arab Emirates, October 10-13, 2022},
+  pages     = {1--11},
+  publisher = {{IEEE}},
+  year      = {2022},
+  url       = {https://doi.org/10.1109/IJCB54206.2022.10007961},
+  doi       = {10.1109/IJCB54206.2022.10007961},
 }
 
 
