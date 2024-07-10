@@ -1,15 +1,17 @@
 
 
-## This is the official repository of the paper:
-#### SFace: Privacy-friendly and Accurate Face Recognition using Synthetic Data
-Paper on arxiv: [arxiv](https://arxiv.org/abs/2206.10520)
+## This is the official repository of the papers:
+#### SFace: Privacy-friendly and Accurate Face Recognition using Synthetic Data (IJCB 2022)
+#### SFace2: Synthetic-Based Face Recognition With w-Space Identity-Driven Sampling (TBIOM 2024)
+[SFace](https://arxiv.org/abs/2206.10520)
 
+[SFace2](https://ieeexplore.ieee.org/document/10454585)
 
-### Accepted IJCB 2022
 ![Framework](./images/overview_v6.png)
 
-The SFace dataset can be downloaded from [Data](https://drive.google.com/file/d/1fQPyyb0y8aSZvXRskpVENBMT1aCX4bZs/view?usp=sharing).
-(please share your name, affiliation, and official email in the request form).
+The SFace and SFace2 dataset can be downloaded from [Data](https://drive.google.com/drive/folders/1tCadaKDZdmp7K2gQ7Jy2snVdp0-PsTMH?usp=sharing).
+
+#### (Please share your name, affiliation, and official email in the request form).
 
 
 The pretrained model to generate SFace dataset can be downloaded [SFace](https://drive.google.com/drive/folders/109kxFZhA7yizv2dpdnfM-aL0n1JEoGhd?usp=sharing).
@@ -26,7 +28,7 @@ The pretrained model to generate SFace dataset can be downloaded [SFace](https:/
 
 
 
-If you use any of the code provided in this repository, please cite the following paper:
+If you use any of the code/data provided in this repository, please cite the following paper:
 ## Citation
 ```
 @inproceedings{Sface_Boutros,
@@ -46,7 +48,16 @@ If you use any of the code provided in this repository, please cite the followin
   doi       = {10.1109/IJCB54206.2022.10007961},
 }
 
-
+@ARTICLE{10454585,
+  author={Boutros, Fadi and Huber, Marco and Luu, Anh Thi and Siebke, Patrick and Damer, Naser},
+  journal={IEEE Transactions on Biometrics, Behavior, and Identity Science}, 
+  title={SFace2: Synthetic-Based Face Recognition With w-Space Identity-Driven Sampling}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Face recognition;Synthetic data;Training;Data models;Data privacy;Law;Generative adversarial networks;Face Recognition;Biometrics;Generative Adversarial Networks;Synthetic-based Face Recognition},
+  doi={10.1109/TBIOM.2024.3371502}}
 
 ```
 
